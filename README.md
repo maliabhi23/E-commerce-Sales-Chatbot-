@@ -16,6 +16,7 @@ An AI-powered chatbot built with **Flask** and **Google Gemini (Generative AI)**
 ---
 
 ## 📁 Project Structure
+```
 E-commerce-Sales-Chatbot/
 │
 ├── .env # Stores Gemini API key (not shared)
@@ -23,3 +24,4 @@ E-commerce-Sales-Chatbot/
 ├── chatbot.py # Gemini-based chatbot logic
 ├── requirements.txt # Dependencies
 └── README.md # You're here!
+```
