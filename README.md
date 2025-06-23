@@ -25,3 +25,18 @@ E-commerce-Sales-Chatbot/
 ├── requirements.txt # Dependencies
 └── README.md # You're here!
 ```
+
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. 🔃 Clone the repo
+
+```bash
+git clone https://github.com/yourusername/E-commerce-Sales-Chatbot.git
+cd E-commerce-Sales-Chatbot
+
+pip install -r requirements.txt
+
+
