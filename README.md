@@ -38,6 +38,7 @@ git clone https://github.com/yourusername/E-commerce-Sales-Chatbot.git
 cd E-commerce-Sales-Chatbot
 ```
 
+
 2.Install the dependencies
 ```
 pip install -r requirements.txt
@@ -57,13 +58,13 @@ python app.py
  http://localhost:5000
 ```
 
-#💬 API Usage
+💬 API Usage
 1.Get Request
 ```
 http://127.0.0.1:5000
 ```
 
-#Responce
+Responce
 ```
 Welcome to the E-commerce Chatbot API
 ```
@@ -73,7 +74,7 @@ Welcome to the E-commerce Chatbot API
 ```
 # http://127.0.0.1:5000/products?search=book
 ```
-#Responce
+Responce
 ```
 [
 {
